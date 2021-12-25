@@ -9,7 +9,7 @@
     <br>
     An expert backend developer, with a passion for programming :alien:
     <br><br>
-    <a href = "https://github.com/vicqtor"><img src = "https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt = "Github"></a>
+    <a href = "https://github.com/vicqtor"><img src = "https://img.shields.io/badge/GitHub-white?style=for-the-badge&logo=github&logoColor=black" alt = "Github"></a>
 </h4>
 
 <hr>
@@ -65,7 +65,7 @@
 <h4 align = "left"> IoT </h4>
    <div align = "left">
         <img src = "https://img.shields.io/badge/Arduino-white?style=for-the-badge&logo=arduino&logoColor=3776AB" alt = "Arduino">
-		<img src = "https://img.shields.io/badge/Raspberry-white?style=for-the-badge&logo=raspberrypi" alt = "RaspberryPI">
+		<img src = "https://img.shields.io/badge/Raspberry-white?style=for-the-badge&logo=raspberrypi&logoColor=darkred" alt = "RaspberryPI">
     </div>
 
 <hr>
@@ -73,7 +73,6 @@
     <div align = "left">
         <img src = "https://img.shields.io/badge/Anaconda-000000.svg?&style=for-the-badge&logo=anaconda" alt = "Anaconda">
 		<img src = "https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" alt = "Jupyter">
-        
 		<img src = "https://img.shields.io/badge/aws-000000?style=for-the-badge&logo=amazon" alt = "aws">
 		<img src = "https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" alt = "Markdown">
 		<img src = "https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt = "Git">
