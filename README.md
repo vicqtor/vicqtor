@@ -65,7 +65,7 @@
 <h4 align = "left"> IoT </h4>
    <div align = "left">
         <img src = "https://img.shields.io/badge/Arduino-white?style=for-the-badge&logo=arduino&logoColor=3776AB" alt = "Arduino">
-		<img src = "https://img.shields.io/badge/Raspberry-000000?style=for-the-badge&logo=raspberrypi&logoColor=darkred" alt = "RaspberryPI">
+		<img src = "https://img.shields.io/badge/Raspberry-white?style=for-the-badge&logo=raspberrypi" alt = "RaspberryPI">
     </div>
 
 <hr>
@@ -73,7 +73,7 @@
     <div align = "left">
         <img src = "https://img.shields.io/badge/Anaconda-000000.svg?&style=for-the-badge&logo=anaconda" alt = "Anaconda">
 		<img src = "https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" alt = "Jupyter">
-        <img src = "https://img.shields.io/badge/Blockchain-000000?style=for-the-badge&logo=blockchain&logoColor=darkorange" alt = "Blockchain">
+        
 		<img src = "https://img.shields.io/badge/aws-000000?style=for-the-badge&logo=amazon" alt = "aws">
 		<img src = "https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" alt = "Markdown">
 		<img src = "https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt = "Git">
@@ -84,6 +84,7 @@
 <hr>
 <h4 align = "left"> Specialties </h4>
 	<div align = "left">
+	<img src = "https://img.shields.io/badge/Blockchain-000000?style=for-the-badge&logo=blockchain&logoColor=darkorange" alt = "Blockchain">
 		<img src = "https://img.shields.io/badge/IoT-00000F?style=for-the-badge&logo=iot&logoColor=white" alt = "IoT">
 		<img src = "https://img.shields.io/badge/Cyber Security-00000F?style=for-the-badge&logo=cybersecurity&logoColor=white" alt = "Cyber Security">
 		<img src = "https://img.shields.io/badge/Networks Engineering-white?style=for-the-badge&logo=cisco&logoColor=000000" alt = "Networks Engineering">
