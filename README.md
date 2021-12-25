@@ -5,9 +5,9 @@
 -->
 
 <h4 align = "center">
-    Hi, <img src = "https://user-images.githubusercontent.com/61727167/114547962-cecc6b80-9c67-11eb-9697-b1c5a8c8ff46.gif" alt = "hello" width="30px">, ♂️, & I"m not an earthling. 
+    Hi, <img src = "https://user-images.githubusercontent.com/61727167/114547962-cecc6b80-9c67-11eb-9697-b1c5a8c8ff46.gif" alt = "hello" width="30px">, :male_sign: :alien: & I"m not an earthling
     <br>
-    An expert backend developer, with a passion for programming :alien:
+    An expert backend developer, with a passion for programming
     <br><br>
     <a href = "https://github.com/vicqtor"><img src = "https://img.shields.io/badge/GitHub-white?style=for-the-badge&logo=github&logoColor=black" alt = "Github"></a>
 </h4>
