@@ -16,7 +16,7 @@
 <h4 align = "left"> Languanges </h4>
     <div align = "left">
 		<img src = "https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt = "Python">
-        <img src = "https://img.shields.io/badge/Java-white?style=for-the-badge&logo=java&logoColor=darkred" alt = "Java">
+        <img src = "https://img.shields.io/badge/Java SE|EE|ME|FX-white?style=for-the-badge&logo=java&logoColor=darkred" alt = "Java">
         <img src = "https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=cplusplus&logoColor=3776AB" alt = "C++">
 		<img src = "https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt = "JavaScript">
         <img src = "https://img.shields.io/badge/Tailwind-000000?style=for-the-badge&logo=tailwindcss" alt = "TailwindCSS">
@@ -28,12 +28,15 @@
 
 <hr>
 <h4 align = "left"> Frameworks </h4>
-    <div align = "left">
+		<div align = "left">
 		<img src = "https://img.shields.io/badge/Django-darkgreen?style=for-the-badge&logo=django" alt = "Django">
         <img src = "https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt = "npm">
 		<img src = "https://img.shields.io/badge/NodeJs-00000F?style=for-the-badge&logo=nodedotjs" alt = "NodeJs">
 		<img src = "https://img.shields.io/badge/VueJs-000000?style=for-the-badge&logo=vuedotjs" alt = "VueJS">
+		<img src = "https://img.shields.io/badge/CapacitorJs-00000F?style=for-the-badge&logo=capacitor" alt = "Python">
+		<img src = "https://img.shields.io/badge/RestApis-darkgreen?style=for-the-badge&logo=rest" alt = "Python">
 		<img src = "https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt = "Flask">
+		<img src = "https://img.shields.io/badge/express-3776AB?style=for-the-badge&logo=express&logoColor=white" alt = "Express">
     </div>
 
 <hr>
@@ -45,9 +48,9 @@
 		<img src = "https://img.shields.io/badge/Pytorch-000000?style=for-the-badge&logo=pytorch&logoColor=darkorange" alt = "Pytorch">
 		<img src = "https://img.shields.io/badge/Keras-white?style=for-the-badge&logo=keras&logoColor=red" alt = "Keras">
         <img src = "https://img.shields.io/badge/OpenCV-339933?style=for-the-badge&logo=opencv" alt = "OpenCV">
-        <img src = "https://img.shields.io/badge/MatPlotLib-00000F?style=for-the-badge&logo=Matplotlib&logoColor=white" alt = "MatPlotLib">
+        <img src = "https://img.shields.io/badge/MatPlotLib-00000F?style=for-the-badge&logo=plotlib&logoColor=white" alt = "MatPlotLib">
         <img src = "https://img.shields.io/badge/Data Science-00000F?style=for-the-badge&logo=data_science&logoColor=white" alt = "Data Science">
-		<img src = "https://img.shields.io/badge/AI ML DL-00000F?style=for-the-badge&logo=scikitlearn&logoColor=red" alt = "AI ML DL">
+	<img src = "https://img.shields.io/badge/AI ML DL-00000F?style=for-the-badge&logo=scikitlearn&logoColor=red" alt = "AI ML DL">
     </div>
 
 <hr>
@@ -78,14 +81,16 @@
 		<img src = "https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt = "Git">
 		<img src = "https://img.shields.io/badge/GitBook-7B36ED?style=for-the-badge&logo=gitbook&logoColor=white" alt = "GitBook">
 		<img src = "https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=darkred" alt = "Linux">
+		<img src = "https://img.shields.io/badge/Apache-00000F?style=for-the-badge&logo=apache&logoColor=darkred" alt = "Python">
+		<img src = "https://img.shields.io/badge/Tomcat-00000F?style=for-the-badge&logo=apachetomcat" alt = "Python">
     </div>
 
 <hr>
 <h4 align = "left"> Specialties </h4>
 	<div align = "left">
-	<img src = "https://img.shields.io/badge/Blockchain-000000?style=for-the-badge&logo=blockchain&logoColor=darkorange" alt = "Blockchain">
+		<img src = "https://img.shields.io/badge/Blockchain-000000?style=for-the-badge&logo=blockchain&logoColor=darkorange" alt = "Blockchain">
 		<img src = "https://img.shields.io/badge/IoT-00000F?style=for-the-badge&logo=iot&logoColor=white" alt = "IoT">
-		<img src = "https://img.shields.io/badge/Cyber Security-00000F?style=for-the-badge&logo=cybersecurity&logoColor=white" alt = "Cyber Security">
+		<img src = "https://img.shields.io/badge/Cyber Security-00000F?style=for-the-badge&logo=cyber&logoColor=white" alt = "Cyber Security">
 		<img src = "https://img.shields.io/badge/Networks Engineering-white?style=for-the-badge&logo=cisco&logoColor=000000" alt = "Networks Engineering">
 		<img src = "https://img.shields.io/badge/Cloud Engineering (B/I/S/PaaS)-ffca28?style=for-the-badge&logo=digitalocean&logoColor=black" alt = "Cloud Engineering (B/I/S/PaaS)">
 		<img src = "https://img.shields.io/badge/SOC & DevSecOps-00000F?style=for-the-badge&logo=devsecops&logoColor=white" alt = "SOC & DevSecOps">
