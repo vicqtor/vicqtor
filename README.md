@@ -30,19 +30,20 @@
 <h4 align = "left"> Frameworks </h4>
 		<div align = "left">
 		<img src = "https://img.shields.io/badge/Django-darkgreen?style=for-the-badge&logo=django" alt = "Django">
+	<img src = "https://img.shields.io/badge/RestApis-black?style=for-the-badge&logo=api" alt = "RestAPIs">
         <img src = "https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt = "npm">
 		<img src = "https://img.shields.io/badge/NodeJs-00000F?style=for-the-badge&logo=nodedotjs" alt = "NodeJs">
 		<img src = "https://img.shields.io/badge/VueJs-000000?style=for-the-badge&logo=vuedotjs" alt = "VueJS">
 		<img src = "https://img.shields.io/badge/CapacitorJs-00000F?style=for-the-badge&logo=capacitor" alt = "Python">
-		<img src = "https://img.shields.io/badge/RestApis-darkgreen?style=for-the-badge&logo=rest" alt = "Python">
-		<img src = "https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt = "Flask">
-		<img src = "https://img.shields.io/badge/express-3776AB?style=for-the-badge&logo=express&logoColor=white" alt = "Express">
+	<img src = "https://img.shields.io/badge/ionic-3776AB?style=for-the-badge&logo=ionic&logoColor=white" alt = "Ionic">
+		<img src = "https://img.shields.io/badge/express-00000F?style=for-the-badge&logo=express&logoColor=white" alt = "Express">
+	<img src = "https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt = "Flask">
     </div>
 
 <hr>
 <h4 align = "left"> Artificial Intelligence & Machine Learning </h4>
     <div align = "left">
-        <img src = "https://img.shields.io/badge/Numpy-3776AB?style=for-the-badge&logo=numpy&logoColor=white" alt = "Numpy">
+        <img src = "https://img.shields.io/badge/Numpy-00000F?style=for-the-badge&logo=numpy&logoColor=white" alt = "Numpy">
 		<img src = "https://img.shields.io/badge/Pandas-3776AB?style=for-the-badge&logo=pandas&logoColor=white" alt = "Pandas">
 		<img src = "https://img.shields.io/badge/Tensorflow-00000F?style=for-the-badge&logo=tensorflow" alt = "Tensorflow">
 		<img src = "https://img.shields.io/badge/Pytorch-000000?style=for-the-badge&logo=pytorch&logoColor=darkorange" alt = "Pytorch">
