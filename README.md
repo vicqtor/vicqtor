@@ -21,6 +21,7 @@ An expert backend developer, with a passion for programming.
 <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="npm">
 <img src="https://img.shields.io/badge/Node.Js-00000F?style=for-the-badge&logo=nodedotjs" alt="Node.Js">
 <img src="https://img.shields.io/badge/Vue.Js-000000?style=for-the-badge&logo=vuedotjs" alt="Vue.JS">
+  <img src="https://img.shields.io/badge/Nuxt3-000000?style=for-the-badge&logo=nuxt" alt="Vue.JS">
 <br>
 <img src="https://img.shields.io/badge/aws-000000?style=for-the-badge&logo=amazon" alt="aws">
 <img src="https://img.shields.io/badge/Mongo-00000F?style=for-the-badge&logo=mongodb" alt="MongoDb">
