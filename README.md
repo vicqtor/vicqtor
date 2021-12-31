@@ -1,5 +1,5 @@
 <h4 align="center">
-Hi, <img src="https://user-images.githubusercontent.com/61727167/114547962-cecc6b80-9c67-11eb-9697-b1c5a8c8ff46.gif" alt="hello" width="30px">, :male_sign:, :alien: & I"m not an earthling
+Hi, <img src="https://user-images.githubusercontent.com/61727167/114547962-cecc6b80-9c67-11eb-9697-b1c5a8c8ff46.gif" alt="hello" width="30px">, :male_sign:, :alien: & I'm not an earthling.
 <br>
 An expert backend developer, with a passion for programming.
 <br><br>
@@ -9,10 +9,7 @@ An expert backend developer, with a passion for programming.
 <hr>
 <h4 align="left"> About: Skills, Languanges, Tools & Frameworks </h4>
 <div align="left">
-<img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=darkred" alt="Linux">
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-<br>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+<img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python" alt="Python">
 <img src="https://img.shields.io/badge/Django-darkgreen?style=for-the-badge&logo=django" alt="Django">
 <img src="https://img.shields.io/badge/RestApis-black?style=for-the-badge&logo=api" alt="RestAPIs">
 <img src="https://img.shields.io/badge/Blockchain-000000?style=for-the-badge&logo=blockchain&logoColor=darkorange" alt="Blockchain">
@@ -32,8 +29,11 @@ An expert backend developer, with a passion for programming.
 <img src="https://img.shields.io/badge/NodeJs-00000F?style=for-the-badge&logo=nodedotjs" alt="NodeJs">
 <img src="https://img.shields.io/badge/VueJs-000000?style=for-the-badge&logo=vuedotjs" alt="VueJS">
 <br>
+<img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=darkred" alt="Linux">
 <img src="https://img.shields.io/badge/Arduino-white?style=for-the-badge&logo=arduino&logoColor=3776AB" alt="Arduino">
 <img src="https://img.shields.io/badge/Raspberry-white?style=for-the-badge&logo=raspberrypi&logoColor=darkred" alt="RaspberryPI">
+
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
 </div>
 
 <br>
@@ -82,4 +82,4 @@ An expert backend developer, with a passion for programming.
 <!--
 <a href="https://github.com/vicqtor/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=vicqtor&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Victor"s github stats" /></a>
 -->
-  
+
