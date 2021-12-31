@@ -1,13 +1,3 @@
-<!--
-<p align="center">
-<img src="Robot.png" height="150"/>
-</p>
--->
-
-
-<!DOCTYPE html>
-
-
 <h4 align="center">
 Hi, <img src="https://user-images.githubusercontent.com/61727167/114547962-cecc6b80-9c67-11eb-9697-b1c5a8c8ff46.gif" alt="hello" width="30px">, :male_sign:, :alien: & I"m not an earthling
 <br>
@@ -91,7 +81,5 @@ An expert backend developer, with a passion for programming.
 
 <!--
 <a href="https://github.com/vicqtor/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=vicqtor&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Victor"s github stats" /></a>
-
-<a href="https://www.buymeacoffee.com/vicqtor" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
-
 -->
+  
