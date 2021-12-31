@@ -13,30 +13,33 @@
 </h4>
 
 <hr>
-<h4 align = "left"> My skills: Languanges, Tools & Frameworks </h4>
+<h4 align = "left"> About: Skills, Languanges, Tools & Frameworks </h4>
     <div align = "left">
+	<img src = "https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=darkred" alt = "Linux">
+	    <img src = "https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt = "Git">
+		    <br>
 		<img src = "https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt = "Python">
 	<img src = "https://img.shields.io/badge/Django-darkgreen?style=for-the-badge&logo=django" alt = "Django">
 	<img src = "https://img.shields.io/badge/RestApis-black?style=for-the-badge&logo=api" alt = "RestAPIs">
 	<img src = "https://img.shields.io/badge/Blockchain-000000?style=for-the-badge&logo=blockchain&logoColor=darkorange" alt = "Blockchain">
 	<img src = "https://img.shields.io/badge/Cyber Security-00000F?style=for-the-badge&logo=cyber&logoColor=white" alt = "Cyber Security">
+	<br>
         <img src = "https://img.shields.io/badge/Java SE|EE|ME|FX-white?style=for-the-badge&logo=java&logoColor=darkred" alt = "Java">
         <img src = "https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=cplusplus&logoColor=3776AB" alt = "C++">
+	<br>
 	<img src = "https://img.shields.io/badge/aws-000000?style=for-the-badge&logo=amazon" alt = "aws">
-		<img src = "https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt = "JavaScript">
-	<img src = "https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt = "npm">
-		<img src = "https://img.shields.io/badge/NodeJs-00000F?style=for-the-badge&logo=nodedotjs" alt = "NodeJs">
-        <img src = "https://img.shields.io/badge/Tailwind-000000?style=for-the-badge&logo=tailwindcss" alt = "TailwindCSS">
-	 <img src = "https://img.shields.io/badge/Mongo-00000F?style=for-the-badge&logo=mongodb" alt = "MongoDb">
+	<img src = "https://img.shields.io/badge/Mongo-00000F?style=for-the-badge&logo=mongodb" alt = "MongoDb">
 		<img src = "https://img.shields.io/badge/Firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" alt = "hFirebaseello">
 		<img src = "https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" alt = "Heroku">
 		<img src = "https://img.shields.io/badge/Oracle-000000?style=for-the-badge&logo=oracle&logoColor=darkred" alt = "Oracle">
+	<br>
+		<img src = "https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt = "JavaScript">
+	<img src = "https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt = "npm">
+		<img src = "https://img.shields.io/badge/NodeJs-00000F?style=for-the-badge&logo=nodedotjs" alt = "NodeJs">
 		<img src = "https://img.shields.io/badge/VueJs-000000?style=for-the-badge&logo=vuedotjs" alt = "VueJS">
+	<br>
 	<img src = "https://img.shields.io/badge/Arduino-white?style=for-the-badge&logo=arduino&logoColor=3776AB" alt = "Arduino">
 		<img src = "https://img.shields.io/badge/Raspberry-white?style=for-the-badge&logo=raspberrypi&logoColor=darkred" alt = "RaspberryPI">
-		<img src = "https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt = "HTML5">
-		<img src = "https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt = "CSS3">
-	<img src = "https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt = "Flask">
     </div>
 
 
@@ -48,9 +51,6 @@
 	<summary> More skills stuff </summary>
 <hr>
     <div align = "left">
-	    <img src = "https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=darkred" alt = "Linux">
-	    <img src = "https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt = "Git">
-		    <br>
 	    <img src = "https://img.shields.io/badge/Tensorflow-00000F?style=for-the-badge&logo=tensorflow" alt = "Tensorflow">
 		<img src = "https://img.shields.io/badge/Pytorch-000000?style=for-the-badge&logo=pytorch&logoColor=darkorange" alt = "Pytorch">
         <img src = "https://img.shields.io/badge/Numpy-00000F?style=for-the-badge&logo=numpy&logoColor=white" alt = "Numpy">
@@ -65,11 +65,13 @@
 	    <img src = "https://img.shields.io/badge/Anaconda-000000.svg?&style=for-the-badge&logo=anaconda" alt = "Anaconda">
 		<img src = "https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" alt = "Jupyter">
 	    <br>
+	<img src = "https://img.shields.io/badge/Tailwind-000000?style=for-the-badge&logo=tailwindcss" alt = "TailwindCSS">
+		<img src = "https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt = "HTML5">
+		<img src = "https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt = "CSS3">
+	<img src = "https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt = "Flask">
 	    <img src = "https://img.shields.io/badge/ionic-3776AB?style=for-the-badge&logo=ionic&logoColor=white" alt = "Ionic">
 	    <img src = "https://img.shields.io/badge/CapacitorJs-00000F?style=for-the-badge&logo=capacitor" alt = "Python">
 	    <img src = "https://img.shields.io/badge/express-00000F?style=for-the-badge&logo=express&logoColor=white" alt = "Express">
-		<img src = "https://img.shields.io/badge/Flutter-white?style=for-the-badge&logo=flutter&logoColor=1572B6" alt = "Flutter">
-		<img src = "https://img.shields.io/badge/Dart-white?style=for-the-badge&logo=dart&logoColor=1572B6" alt = "Dart">	
     </div>
 </details>
 
