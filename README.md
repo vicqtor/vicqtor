@@ -45,7 +45,6 @@ An expert backend developer, with a passion for programming.
 <img src="https://img.shields.io/badge/Numpy-00000F?style=for-the-badge&logo=numpy&logoColor=white" alt="Numpy">
 <img src="https://img.shields.io/badge/Pandas-3776AB?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas">
 <img src="https://img.shields.io/badge/OpenCV-339933?style=for-the-badge&logo=opencv" alt="OpenCV">
-<img src="https://img.shields.io/badge/Keras-white?style=for-the-badge&logo=keras&logoColor=red" alt="Keras">
 <img src="https://img.shields.io/badge/MatPlotLib-00000F?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="MatPlotLib">
 <br>
 <img src="https://img.shields.io/badge/Networks Engineering-white?style=for-the-badge&logo=cisco&logoColor=000000" alt="Networks Engineering">
@@ -60,7 +59,6 @@ An expert backend developer, with a passion for programming.
 <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask">
 <img src="https://img.shields.io/badge/ionic-3776AB?style=for-the-badge&logo=ionic&logoColor=white" alt="Ionic">
 <img src="https://img.shields.io/badge/CapacitorJs-00000F?style=for-the-badge&logo=capacitor" alt="CapacitorJs">
-<img src="https://img.shields.io/badge/express-00000F?style=for-the-badge&logo=express&logoColor=white" alt="Express">
 </div>
 </details>
 
