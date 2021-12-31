@@ -5,9 +5,9 @@
 -->
 
 <h4 align = "center">
-    Hi, <img src = "https://user-images.githubusercontent.com/61727167/114547962-cecc6b80-9c67-11eb-9697-b1c5a8c8ff46.gif" alt = "hello" width="30px">, :male_sign: :alien: & I"m not an earthling
+    Hi, <img src = "https://user-images.githubusercontent.com/61727167/114547962-cecc6b80-9c67-11eb-9697-b1c5a8c8ff46.gif" alt = "hello" width="30px">, :male_sign:, :alien: & I"m not an earthling
     <br>
-    An expert backend developer, with a passion for programming
+    An expert backend developer, with a passion for programming.
     <br><br>
     <a href = "https://github.com/vicqtor"><img src = "https://img.shields.io/badge/GitHub-white?style=for-the-badge&logo=github&logoColor=black" alt = "Github"></a>
 </h4>
@@ -22,14 +22,14 @@
 	<img src = "https://img.shields.io/badge/Django-darkgreen?style=for-the-badge&logo=django" alt = "Django">
 	<img src = "https://img.shields.io/badge/RestApis-black?style=for-the-badge&logo=api" alt = "RestAPIs">
 	<img src = "https://img.shields.io/badge/Blockchain-000000?style=for-the-badge&logo=blockchain&logoColor=darkorange" alt = "Blockchain">
-	<img src = "https://img.shields.io/badge/Cyber Security-00000F?style=for-the-badge&logo=cyber&logoColor=white" alt = "Cyber Security">
+	<img src = "https://img.shields.io/badge/Cyber Security-darkred?style=for-the-badge&logo=cyber&logoColor=black" alt = "Cyber Security">
 	<br>
         <img src = "https://img.shields.io/badge/Java SE|EE|ME|FX-white?style=for-the-badge&logo=java&logoColor=darkred" alt = "Java">
         <img src = "https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=cplusplus&logoColor=3776AB" alt = "C++">
 	<br>
 	<img src = "https://img.shields.io/badge/aws-000000?style=for-the-badge&logo=amazon" alt = "aws">
 	<img src = "https://img.shields.io/badge/Mongo-00000F?style=for-the-badge&logo=mongodb" alt = "MongoDb">
-		<img src = "https://img.shields.io/badge/Firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" alt = "hFirebaseello">
+		<img src = "https://img.shields.io/badge/Firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" alt = "Firebase">
 		<img src = "https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" alt = "Heroku">
 		<img src = "https://img.shields.io/badge/Oracle-000000?style=for-the-badge&logo=oracle&logoColor=darkred" alt = "Oracle">
 	<br>
@@ -48,7 +48,7 @@
 
 
 <details>
-	<summary> More skills stuff </summary>
+	<summary> More Info </summary>
 <hr>
     <div align = "left">
 	    <img src = "https://img.shields.io/badge/Tensorflow-00000F?style=for-the-badge&logo=tensorflow" alt = "Tensorflow">
@@ -70,7 +70,7 @@
 		<img src = "https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt = "CSS3">
 	<img src = "https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt = "Flask">
 	    <img src = "https://img.shields.io/badge/ionic-3776AB?style=for-the-badge&logo=ionic&logoColor=white" alt = "Ionic">
-	    <img src = "https://img.shields.io/badge/CapacitorJs-00000F?style=for-the-badge&logo=capacitor" alt = "Python">
+	    <img src = "https://img.shields.io/badge/CapacitorJs-00000F?style=for-the-badge&logo=capacitor" alt = "CapacitorJs">
 	    <img src = "https://img.shields.io/badge/express-00000F?style=for-the-badge&logo=express&logoColor=white" alt = "Express">
     </div>
 </details>
