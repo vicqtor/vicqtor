@@ -34,10 +34,11 @@ An expert backend developer, with a passion for programming.
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
 </div>
 
+<hr>
 <br>
 <details>
 <summary>More Info</summary>
-<hr>
+<br>
 <div align="left">
 <img src="https://img.shields.io/badge/Tensorflow-00000F?style=for-the-badge&logo=tensorflow" alt="Tensorflow">
 <img src="https://img.shields.io/badge/Pytorch-000000?style=for-the-badge&logo=pytorch&logoColor=darkorange" alt="Pytorch">
