@@ -32,33 +32,39 @@ An expert backend developer, with a passion for programming.
 <img src="https://img.shields.io/badge/Arduino-white?style=for-the-badge&logo=arduino&logoColor=3776AB" alt="Arduino">
 <img src="https://img.shields.io/badge/Raspberry-white?style=for-the-badge&logo=raspberrypi&logoColor=darkred" alt="RaspberryPI">
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-</div>
-
-<hr>
-<br>
+<br><br>
 <details>
-<summary>More Info</summary>
-<br>
-<div align="left">
+<summary>>>></summary>
+<h4 align="left">Artificial Intelligence & Machine Learning</h4>
+<img src="https://img.shields.io/badge/OpenCV-339933?style=for-the-badge&logo=opencv" alt="OpenCV">
 <img src="https://img.shields.io/badge/Tensorflow-00000F?style=for-the-badge&logo=tensorflow" alt="Tensorflow">
 <img src="https://img.shields.io/badge/Pytorch-000000?style=for-the-badge&logo=pytorch&logoColor=darkorange" alt="Pytorch">
 <img src="https://img.shields.io/badge/Numpy-00000F?style=for-the-badge&logo=numpy&logoColor=white" alt="Numpy">
 <img src="https://img.shields.io/badge/Pandas-3776AB?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas">
-<img src="https://img.shields.io/badge/OpenCV-339933?style=for-the-badge&logo=opencv" alt="OpenCV">
 <img src="https://img.shields.io/badge/MatPlotLib-00000F?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="MatPlotLib">
 <br>
+<img src="https://img.shields.io/badge/Data Science-00000F?style=for-the-badge&logo=datascience" alt="Data Science">
+<img src="https://img.shields.io/badge/Robotics-00000F?style=for-the-badge&logo=robot" alt="Robotics">
+<img src="https://img.shields.io/badge/Automation-00000F?style=for-the-badge&logo=automation" alt="Automation">
+</details>
+</div>
+
+<hr>
+<details>
+<summary>More Info</summary>
+<br>
+<div align="left">
 <img src="https://img.shields.io/badge/Networks Engineering-white?style=for-the-badge&logo=cisco&logoColor=000000" alt="Networks Engineering">
 <img src="https://img.shields.io/badge/Cloud Engineering (BaaS, IaaS, SaaS, PaaS)-ffca28?style=for-the-badge&logo=digitalocean&logoColor=black" alt="Cloud Engineering (BaaS, IaaS, SaaS, PaaS)">
 <br>
-<img src="https://img.shields.io/badge/Anaconda-000000.svg?&style=for-the-badge&logo=anaconda" alt="Anaconda">
 <img src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" alt="Jupyter">
-<br>
 <img src="https://img.shields.io/badge/Tailwind-000000?style=for-the-badge&logo=tailwindcss" alt="TailwindCSS">
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
 <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask">
 <img src="https://img.shields.io/badge/ionic-3776AB?style=for-the-badge&logo=ionic&logoColor=white" alt="Ionic">
 <img src="https://img.shields.io/badge/CapacitorJs-00000F?style=for-the-badge&logo=capacitor" alt="CapacitorJs">
+<img src="https://img.shields.io/badge/Anaconda-000000.svg?&style=for-the-badge&logo=anaconda" alt="Anaconda">
 </div>
 </details>
 
