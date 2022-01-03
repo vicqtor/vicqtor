@@ -20,25 +20,24 @@ I'm an expert backend developer, with a passion for programming.
 <img src="https://img.shields.io/badge/Nuxt3-000000?style=for-the-badge&logo=nuxt" alt="Vue.JS">
 <img src="https://img.shields.io/badge/Tailwind-000000?style=for-the-badge&logo=tailwindcss" alt="TailwindCSS">
 <br>
-<img src="https://img.shields.io/badge/aws-000000?style=for-the-badge&logo=amazon" alt="aws">
 <img src="https://img.shields.io/badge/Mongo-00000F?style=for-the-badge&logo=mongodb" alt="MongoDb">
-<img src="https://img.shields.io/badge/Firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase">
-<img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" alt="Heroku">
+<img src="https://img.shields.io/badge/aws-000000?style=for-the-badge&logo=amazon" alt="aws">
 <img src="https://img.shields.io/badge/Oracle-000000?style=for-the-badge&logo=oracle&logoColor=darkred" alt="Oracle">
-<br>
 <img src="https://img.shields.io/badge/Arduino-white?style=for-the-badge&logo=arduino&logoColor=3776AB" alt="Arduino">
 <img src="https://img.shields.io/badge/Raspberry-white?style=for-the-badge&logo=raspberrypi&logoColor=darkred" alt="RaspberryPI">
+<br>
+<img src="https://img.shields.io/badge/A.I. & M.L.-00000F?style=for-the-badge&logo=robot" alt="A.I & M.L.">
+<img src="https://img.shields.io/badge/Data Science-00000F?style=for-the-badge&logo=datascience" alt="Data Science">
+<img src="https://img.shields.io/badge/Robotics-00000F?style=for-the-badge&logo=robot" alt="Robotics">
+<img src="https://img.shields.io/badge/Automation-00000F?style=for-the-badge&logo=automation" alt="Automation">
+<br>
+<img src="https://img.shields.io/badge/Networks Engineering-white?style=for-the-badge&logo=cisco&logoColor=000000" alt="Networks Engineering">
+<img src="https://img.shields.io/badge/Cloud Engineering (BaaS, IaaS, SaaS, PaaS)-ffca28?style=for-the-badge&logo=digitalocean&logoColor=black" alt="Cloud Engineering (BaaS, IaaS, SaaS, PaaS)"> 
 <br>
 <br>
 <hr>
 <details>
-<summary>>>></summary>
-<br>
-<img src="https://img.shields.io/badge/Networks Engineering-white?style=for-the-badge&logo=cisco&logoColor=000000" alt="Networks Engineering">
-<img src="https://img.shields.io/badge/Cloud Engineering (BaaS, IaaS, SaaS, PaaS)-ffca28?style=for-the-badge&logo=digitalocean&logoColor=black" alt="Cloud Engineering (BaaS, IaaS, SaaS, PaaS)">
-<br>
-<img src="https://img.shields.io/badge/Artificial Intelligence & Machine Learning-00000F?style=for-the-badge&logo=robot" alt="Artificial Intelligence & Machine Learning">
-<img src="https://img.shields.io/badge/Data Science-00000F?style=for-the-badge&logo=datascience" alt="Data Science">
+<summary> >>more>></summary>
 <br>
 <img src="https://img.shields.io/badge/OpenCV-339933?style=for-the-badge&logo=opencv" alt="OpenCV">
 <img src="https://img.shields.io/badge/Tensorflow-00000F?style=for-the-badge&logo=tensorflow" alt="Tensorflow">
@@ -47,10 +46,12 @@ I'm an expert backend developer, with a passion for programming.
 <img src="https://img.shields.io/badge/Pandas-3776AB?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas">
 <img src="https://img.shields.io/badge/MatPlotLib-00000F?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="MatPlotLib">
 <br>
-<img src="https://img.shields.io/badge/Robotics-00000F?style=for-the-badge&logo=robot" alt="Robotics">
-<img src="https://img.shields.io/badge/Automation-00000F?style=for-the-badge&logo=automation" alt="Automation">
 <img src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" alt="Jupyter">
-<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask">
+<img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" alt="Heroku">
+<img src="https://img.shields.io/badge/Firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase">
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+<img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=darkred" alt="Linux">
+<img src="https://img.shields.io/badge/Anaconda-000000.svg?&style=for-the-badge&logo=anaconda" alt="Anaconda">
 </details>
 </div>
 
