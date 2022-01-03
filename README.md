@@ -12,7 +12,7 @@ I'm an expert backend developer, with a passion for programming.
 <img src="https://img.shields.io/badge/Blockchain-000000?style=for-the-badge&logo=blockchain&logoColor=darkorange" alt="Blockchain">
 <img src="https://img.shields.io/badge/Cyber Security-darkred?style=for-the-badge&logo=cyber&logoColor=black" alt="Cyber Security">
 <br>
-<img src="https://img.shields.io/badge/Java SE|EE|ME|FX-white?style=for-the-badge&logo=java&logoColor=darkred" alt="Java">
+<img src="https://img.shields.io/badge/Java se|ee|me|fx-white?style=for-the-badge&logo=java&logoColor=darkred" alt="Java se|ee|me|fx">
 <img src="https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=cplusplus&logoColor=3776AB" alt="C++">
 <img src="https://img.shields.io/badge/JS-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript">
 <img src="https://img.shields.io/badge/Node-00000F?style=for-the-badge&logo=nodedotjs" alt="Node.Js">
@@ -31,8 +31,8 @@ I'm an expert backend developer, with a passion for programming.
 <img src="https://img.shields.io/badge/Robotics-00000F?style=for-the-badge&logo=robot" alt="Robotics">
 <img src="https://img.shields.io/badge/Automation-00000F?style=for-the-badge&logo=automation" alt="Automation">
 <br>
-<img src="https://img.shields.io/badge/Networks Engineering-white?style=for-the-badge&logo=cisco&logoColor=000000" alt="Networks Engineering">
-<img src="https://img.shields.io/badge/Cloud Engineering (BaaS, IaaS, SaaS, PaaS)-ffca28?style=for-the-badge&logo=digitalocean&logoColor=black" alt="Cloud Engineering (BaaS, IaaS, SaaS, PaaS)"> 
+<img src="https://img.shields.io/badge/Networks Eng.-white?style=for-the-badge&logo=cisco&logoColor=000000" alt="Networks Eng.">
+<img src="https://img.shields.io/badge/Cloud Eng. (BaaS, IaaS, SaaS, PaaS)-ffca28?style=for-the-badge&logo=digitalocean&logoColor=black" alt="Cloud Eng. (BaaS, IaaS, SaaS, PaaS)"> 
 <br>
 <br>
 <hr>
