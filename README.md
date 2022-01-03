@@ -1,11 +1,8 @@
-<h4 align="center">
-Hi, <img src="https://user-images.githubusercontent.com/61727167/114547962-cecc6b80-9c67-11eb-9697-b1c5a8c8ff46.gif" alt="hello" width="30px">, :male_sign:, :alien: & I'm not an earthling.
+<h5 align="center">
+Hi <img src="https://user-images.githubusercontent.com/61727167/114547962-cecc6b80-9c67-11eb-9697-b1c5a8c8ff46.gif" alt="hello" width="30px">
 <br>
-An expert backend developer, with a passion for programming.
-<br><br>
-<a href="https://github.com/vicqtor"><img src="https://img.shields.io/badge/GitHub-white?style=for-the-badge&logo=github&logoColor=black" alt="Github"></a>
-</h4>
-
+I'm an expert backend developer, with a passion for programming.
+</h5>
 <hr>
 <h4 align="left">About: Skills, Languanges, Tools & Frameworks</h4>
 <div align="left">
@@ -17,11 +14,11 @@ An expert backend developer, with a passion for programming.
 <br>
 <img src="https://img.shields.io/badge/Java SE|EE|ME|FX-white?style=for-the-badge&logo=java&logoColor=darkred" alt="Java">
 <img src="https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=cplusplus&logoColor=3776AB" alt="C++">
-<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript">
-<img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="npm">
-<img src="https://img.shields.io/badge/Node.Js-00000F?style=for-the-badge&logo=nodedotjs" alt="Node.Js">
-<img src="https://img.shields.io/badge/Vue.Js-000000?style=for-the-badge&logo=vuedotjs" alt="Vue.JS">
-  <img src="https://img.shields.io/badge/Nuxt3-000000?style=for-the-badge&logo=nuxt" alt="Vue.JS">
+<img src="https://img.shields.io/badge/JS-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript">
+<img src="https://img.shields.io/badge/Node-00000F?style=for-the-badge&logo=nodedotjs" alt="Node.Js">
+<img src="https://img.shields.io/badge/Vue-000000?style=for-the-badge&logo=vuedotjs" alt="Vue.JS">
+<img src="https://img.shields.io/badge/Nuxt3-000000?style=for-the-badge&logo=nuxt" alt="Vue.JS">
+<img src="https://img.shields.io/badge/Tailwind-000000?style=for-the-badge&logo=tailwindcss" alt="TailwindCSS">
 <br>
 <img src="https://img.shields.io/badge/aws-000000?style=for-the-badge&logo=amazon" alt="aws">
 <img src="https://img.shields.io/badge/Mongo-00000F?style=for-the-badge&logo=mongodb" alt="MongoDb">
@@ -29,14 +26,20 @@ An expert backend developer, with a passion for programming.
 <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" alt="Heroku">
 <img src="https://img.shields.io/badge/Oracle-000000?style=for-the-badge&logo=oracle&logoColor=darkred" alt="Oracle">
 <br>
-<img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=darkred" alt="Linux">
 <img src="https://img.shields.io/badge/Arduino-white?style=for-the-badge&logo=arduino&logoColor=3776AB" alt="Arduino">
 <img src="https://img.shields.io/badge/Raspberry-white?style=for-the-badge&logo=raspberrypi&logoColor=darkred" alt="RaspberryPI">
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-<br><br>
+<br>
+<br>
+<hr>
 <details>
 <summary>>>></summary>
-<h4 align="left">Artificial Intelligence & Machine Learning</h4>
+<br>
+<img src="https://img.shields.io/badge/Networks Engineering-white?style=for-the-badge&logo=cisco&logoColor=000000" alt="Networks Engineering">
+<img src="https://img.shields.io/badge/Cloud Engineering (BaaS, IaaS, SaaS, PaaS)-ffca28?style=for-the-badge&logo=digitalocean&logoColor=black" alt="Cloud Engineering (BaaS, IaaS, SaaS, PaaS)">
+<br>
+<img src="https://img.shields.io/badge/Artificial Intelligence & Machine Learning-00000F?style=for-the-badge&logo=robot" alt="Artificial Intelligence & Machine Learning">
+<img src="https://img.shields.io/badge/Data Science-00000F?style=for-the-badge&logo=datascience" alt="Data Science">
+<br>
 <img src="https://img.shields.io/badge/OpenCV-339933?style=for-the-badge&logo=opencv" alt="OpenCV">
 <img src="https://img.shields.io/badge/Tensorflow-00000F?style=for-the-badge&logo=tensorflow" alt="Tensorflow">
 <img src="https://img.shields.io/badge/Pytorch-000000?style=for-the-badge&logo=pytorch&logoColor=darkorange" alt="Pytorch">
@@ -44,30 +47,12 @@ An expert backend developer, with a passion for programming.
 <img src="https://img.shields.io/badge/Pandas-3776AB?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas">
 <img src="https://img.shields.io/badge/MatPlotLib-00000F?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="MatPlotLib">
 <br>
-<img src="https://img.shields.io/badge/Data Science-00000F?style=for-the-badge&logo=datascience" alt="Data Science">
 <img src="https://img.shields.io/badge/Robotics-00000F?style=for-the-badge&logo=robot" alt="Robotics">
 <img src="https://img.shields.io/badge/Automation-00000F?style=for-the-badge&logo=automation" alt="Automation">
-</details>
-</div>
-
-<hr>
-<details>
-<summary>More Info</summary>
-<br>
-<div align="left">
-<img src="https://img.shields.io/badge/Networks Engineering-white?style=for-the-badge&logo=cisco&logoColor=000000" alt="Networks Engineering">
-<img src="https://img.shields.io/badge/Cloud Engineering (BaaS, IaaS, SaaS, PaaS)-ffca28?style=for-the-badge&logo=digitalocean&logoColor=black" alt="Cloud Engineering (BaaS, IaaS, SaaS, PaaS)">
-<br>
 <img src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" alt="Jupyter">
-<img src="https://img.shields.io/badge/Tailwind-000000?style=for-the-badge&logo=tailwindcss" alt="TailwindCSS">
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
 <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask">
-<img src="https://img.shields.io/badge/ionic-3776AB?style=for-the-badge&logo=ionic&logoColor=white" alt="Ionic">
-<img src="https://img.shields.io/badge/CapacitorJs-00000F?style=for-the-badge&logo=capacitor" alt="CapacitorJs">
-<img src="https://img.shields.io/badge/Anaconda-000000.svg?&style=for-the-badge&logo=anaconda" alt="Anaconda">
-</div>
 </details>
+</div>
 
 <hr>
 <h4 align="left">Stats</h4>
