@@ -32,12 +32,12 @@ I'm an expert backend developer, with a passion for programming.
 <img src="https://img.shields.io/badge/Automation-00000F?style=for-the-badge&logo=automation" alt="Automation">
 <br>
 <img src="https://img.shields.io/badge/Networks Eng.-white?style=for-the-badge&logo=cisco&logoColor=000000" alt="Networks Eng.">
-<img src="https://img.shields.io/badge/Cloud Eng. (BaaS, IaaS, SaaS, PaaS)-ffca28?style=for-the-badge&logo=digitalocean&logoColor=black" alt="Cloud Eng. (BaaS, IaaS, SaaS, PaaS)"> 
+<img src="https://img.shields.io/badge/Cloud Eng. (BaaS, IaaS, SaaS, PaaS)-ffca28?style=for-the-badge&logo=digitalocean&logoColor=black" alt="Cloud Eng. (BaaS, IaaS, SaaS, PaaS)">
 <br>
 <br>
 <hr>
 <details>
-<summary> >>more>></summary>
+<summary> >>> </summary>
 <br>
 <img src="https://img.shields.io/badge/OpenCV-339933?style=for-the-badge&logo=opencv" alt="OpenCV">
 <img src="https://img.shields.io/badge/Tensorflow-00000F?style=for-the-badge&logo=tensorflow" alt="Tensorflow">
@@ -52,6 +52,11 @@ I'm an expert backend developer, with a passion for programming.
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
 <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=darkred" alt="Linux">
 <img src="https://img.shields.io/badge/Anaconda-000000.svg?&style=for-the-badge&logo=anaconda" alt="Anaconda">
+<br>
+<img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="npm">
+<img src="https://img.shields.io/badge/Docker-white?style=for-the-badge&logo=docker&logoColor=blue" alt="Docker">
+<img src="https://img.shields.io/badge/Maven-000000?style=for-the-badge&logo=apache&logoColor=darkred" alt="Apache Maven">
+<img src="https://img.shields.io/badge/Tomcat-000000?style=for-the-badge&logo=apache&logoColor=darkred" alt="Apache Tomcat">
 </details>
 </div>
 
