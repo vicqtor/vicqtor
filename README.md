@@ -25,16 +25,13 @@ I'm an expert backend developer, with a passion for programming.
 <img src="https://img.shields.io/badge/Oracle-000000?style=for-the-badge&logo=oracle&logoColor=darkred" alt="Oracle">
 <img src="https://img.shields.io/badge/Arduino-white?style=for-the-badge&logo=arduino&logoColor=3776AB" alt="Arduino">
 <img src="https://img.shields.io/badge/Raspberry-white?style=for-the-badge&logo=raspberrypi&logoColor=darkred" alt="RaspberryPI">
+<img src="https://img.shields.io/badge/Ionic-00000F?style=for-the-badge&logo=ionic" alt="Ionic">
 <br>
+<img src="https://img.shields.io/badge/Cloud (B|I|S|P aaS)-ffca28?style=for-the-badge&logo=digitalocean&logoColor=black" alt="Cloud Eng. (B|I|S|P aaS)">
+<img src="https://img.shields.io/badge/Networking-white?style=for-the-badge&logo=cisco&logoColor=000000" alt="Networks Eng.">
 <img src="https://img.shields.io/badge/A.I. & M.L.-00000F?style=for-the-badge&logo=robot" alt="A.I & M.L.">
 <img src="https://img.shields.io/badge/Data Science-00000F?style=for-the-badge&logo=datascience" alt="Data Science">
-<img src="https://img.shields.io/badge/Robotics-00000F?style=for-the-badge&logo=robot" alt="Robotics">
-<img src="https://img.shields.io/badge/Automation-00000F?style=for-the-badge&logo=automation" alt="Automation">
-<br>
-<img src="https://img.shields.io/badge/Networks Eng.-white?style=for-the-badge&logo=cisco&logoColor=000000" alt="Networks Eng.">
-<img src="https://img.shields.io/badge/Cloud Eng. (BaaS, IaaS, SaaS, PaaS)-ffca28?style=for-the-badge&logo=digitalocean&logoColor=black" alt="Cloud Eng. (BaaS, IaaS, SaaS, PaaS)">
-  
-<br>
+
 <br>
 <hr>
 <details>
