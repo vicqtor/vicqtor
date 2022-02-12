@@ -27,7 +27,7 @@ I'm an expert backend developer, with a passion for programming.
 <img src="https://img.shields.io/badge/Arduino-white?style=for-the-badge&logo=arduino&logoColor=3776AB" alt="Arduino">
 <img src="https://img.shields.io/badge/Raspberry-white?style=for-the-badge&logo=raspberrypi&logoColor=darkred" alt="RaspberryPI">
 <br>
-<img src="https://img.shields.io/badge/Cloud (Backend/Infrastructure/Software/Platform as a Service)-ffca28?style=for-the-badge&logo=digitalocean&logoColor=black" alt="Cloud Eng. (Backend/Infrastructure/Software/Platform as a Service)">
+<img src="https://img.shields.io/badge/Cloud: B/I/S/P as a Service-ffca28?style=for-the-badge&logo=digitalocean&logoColor=black" alt="Cloud: (B/I/S/P as a Service)">
 <img src="https://img.shields.io/badge/Networking-white?style=for-the-badge&logo=cisco&logoColor=000000" alt="Networks Eng.">
 <br>
 <hr>
