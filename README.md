@@ -47,10 +47,7 @@ I'm an expert backend developer, with a passion for programming.
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
 <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=darkred" alt="Linux">
 <img src="https://img.shields.io/badge/Anaconda-000000.svg?&style=for-the-badge&logo=anaconda" alt="Anaconda">
-<br>
 <img src="https://img.shields.io/badge/npm-white?style=for-the-badge&logo=npm&logoColor=white" alt="npm">
-<img src="https://img.shields.io/badge/Maven-000000?style=for-the-badge&logo=apache&logoColor=darkred" alt="Apache Maven">
-<img src="https://img.shields.io/badge/Tomcat-000000?style=for-the-badge&logo=apache&logoColor=darkred" alt="Apache Tomcat">
 </details>
 </div>
 <hr>
