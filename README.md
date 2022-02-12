@@ -48,11 +48,9 @@ I'm an expert backend developer, with a passion for programming.
 <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=darkred" alt="Linux">
 <img src="https://img.shields.io/badge/Anaconda-000000.svg?&style=for-the-badge&logo=anaconda" alt="Anaconda">
 <br>
-<img src="https://img.shields.io/badge/Ionic-00000F?style=for-the-badge&logo=ionic" alt="Ionic">
 <img src="https://img.shields.io/badge/npm-white?style=for-the-badge&logo=npm&logoColor=white" alt="npm">
 <img src="https://img.shields.io/badge/Maven-000000?style=for-the-badge&logo=apache&logoColor=darkred" alt="Apache Maven">
 <img src="https://img.shields.io/badge/Tomcat-000000?style=for-the-badge&logo=apache&logoColor=darkred" alt="Apache Tomcat">
-<img src="https://img.shields.io/badge/Docker-white?style=for-the-badge&logo=docker&logoColor=blue" alt="Docker">
 </details>
 </div>
 <hr>
