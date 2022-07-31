@@ -4,7 +4,7 @@ Hi <img src="https://user-images.githubusercontent.com/61727167/114547962-cecc6b
 I'm Victor, an expert backend developer.
 </h5>
 <hr>
-<h4 align="left">Languanges, skills, tools & frameworks.</h4>
+<h4 align="left">languanges, tools & frameworks.</h4>
 <div align="left">
 <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python" alt="Python">
 <img src="https://img.shields.io/badge/JS-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript">
@@ -26,12 +26,9 @@ I'm Victor, an expert backend developer.
 <img src="https://img.shields.io/badge/aws-000000?style=for-the-badge&logo=amazon" alt="aws">
 <img src="https://img.shields.io/badge/Firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase">
 <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" alt="Heroku">
-<hr>
-<img src="https://img.shields.io/badge/Anaconda-000000.svg?&style=for-the-badge&logo=anaconda" alt="Anaconda">
-<img src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" alt="Jupyter">
+<br>
 <img src="https://img.shields.io/badge/Arduino-white?style=for-the-badge&logo=arduino&logoColor=3776AB" alt="Arduino">
 <img src="https://img.shields.io/badge/Raspberry-white?style=for-the-badge&logo=raspberrypi&logoColor=darkred" alt="RaspberryPI">
-<img src="https://img.shields.io/badge/Cyber Security-darkred?style=for-the-badge&logo=cyber&logoColor=black" alt="Cyber Security">
 </details>
 <h4 align="left">Stats</h4>
 <a href="https://github.com/vicqtor/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vicqtor&layout=compact&theme=buefy&hide_border=true"/>
@@ -39,6 +36,9 @@ I'm Victor, an expert backend developer.
 <!--
 <a href="https://github.com/vicqtor/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=vicqtor&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Victor"s github stats" /></a>
 <hr>
+<img src="https://img.shields.io/badge/Anaconda-000000.svg?&style=for-the-badge&logo=anaconda" alt="Anaconda">
+<img src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" alt="Jupyter">
+<img src="https://img.shields.io/badge/Cyber Security-darkred?style=for-the-badge&logo=cyber&logoColor=black" alt="Cyber Security">
 <img src="https://img.shields.io/badge/Node-00000F?style=for-the-badge&logo=nodedotjs" alt="Node.Js">
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
 <img src="https://img.shields.io/badge/Cloud-ffca28?style=for-the-badge&logo=digitalocean&logoColor=black" alt="Cloud">
