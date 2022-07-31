@@ -54,14 +54,6 @@ I'm Victor, an expert backend developer.
 <h4 align="left">Stats</h4>
 <a href="https://github.com/vicqtor/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vicqtor&layout=compact&theme=buefy&hide_border=true"/>
 </div>
-<hr>
-<h4 align="left">CEUs</h4>
-<code>CISSP: Information Systems Security</code><br>
-<code>CHFI: Computer Hacking & Forensics</code><br>
-<code>CompTIA Security</code><br>
-<code>CompTIA Network+</code><br>
-<code>CyberSecurity & I.T</code><br>
-<code>PenTesting & Ethical Hacking</code><br>
 <!--
 <a href="https://github.com/vicqtor/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=vicqtor&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Victor"s github stats" /></a>
 -->
