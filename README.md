@@ -1,7 +1,7 @@
 <h5 align="center">
 Hi <img src="https://user-images.githubusercontent.com/61727167/114547962-cecc6b80-9c67-11eb-9697-b1c5a8c8ff46.gif" alt="hello" width="30px">
 <br>
-I'm Victor, an expert backend developer, with a passion for programming.
+I'm Victor, an expert backend developer.
 </h5>
 <hr>
 <h4 align="left">About: Skills, Languanges, Tools & Frameworks</h4>
@@ -31,6 +31,9 @@ I'm Victor, an expert backend developer, with a passion for programming.
 <img src="https://img.shields.io/badge/Networking-white?style=for-the-badge&logo=cisco&logoColor=000000" alt="Networks Eng.">
 <br>
 <hr>
+<h4 align="left">Stats</h4>
+<a href="https://github.com/vicqtor/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vicqtor&layout=compact&theme=buefy&hide_border=true"/>
+<hr>
 <details>
 <summary> >>> </summary>
 <br>
@@ -50,9 +53,6 @@ I'm Victor, an expert backend developer, with a passion for programming.
 <img src="https://img.shields.io/badge/npm-white?style=for-the-badge&logo=npm&logoColor=white" alt="npm">
 </details>
 </div>
-<hr>
-<h4 align="left">Stats</h4>
-<a href="https://github.com/vicqtor/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vicqtor&layout=compact&theme=buefy&hide_border=true"/>
 <hr>
 <h4 align="left">CEUs</h4>
 <code>CISSP: Information Systems Security</code><br>
