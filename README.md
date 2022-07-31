@@ -7,18 +7,17 @@ I'm Victor, an expert backend developer.
 <h4 align="left">Languanges, tools & frameworks, skills</h4>
 <div align="left">
 <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python" alt="Python">
-<br>
-<img src="https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=cplusplus&logoColor=3776AB" alt="C++">
 <img src="https://img.shields.io/badge/JS-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript">
 <img src="https://img.shields.io/badge/Node-00000F?style=for-the-badge&logo=nodedotjs" alt="Node.Js">
 <img src="https://img.shields.io/badge/Vue-000000?style=for-the-badge&logo=vuedotjs" alt="Vue.JS">
 <img src="https://img.shields.io/badge/Nuxt3-000000?style=for-the-badge&logo=nuxtdotjs" alt="Vue.JS">
-<img src="https://img.shields.io/badge/Tailwind-000000?style=for-the-badge&logo=tailwindcss" alt="TailwindCSS">
-<img src="https://img.shields.io/badge/Java se|ee|me|fx-white?style=for-the-badge&logo=java&logoColor=darkred" alt="Java se|ee|me|fx">
 <br>
+<img src="https://img.shields.io/badge/Tailwind-000000?style=for-the-badge&logo=tailwindcss" alt="TailwindCSS">
+<img src="https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=cplusplus&logoColor=3776AB" alt="C++">
+<img src="https://img.shields.io/badge/Java-white?style=for-the-badge&logo=java&logoColor=darkred" alt="Java">
 <img src="https://img.shields.io/badge/A.I & M.L-00000F?style=for-the-badge&logo=robot" alt="A.I & M.L.">
 <img src="https://img.shields.io/badge/Django-darkgreen?style=for-the-badge&logo=django" alt="Django">
-<img src="https://img.shields.io/badge/RestApis-black?style=for-the-badge&logo=api" alt="RestAPIs">
+<img src="https://img.shields.io/badge/Apis-black?style=for-the-badge&logo=api" alt="APIs">
 <img src="https://img.shields.io/badge/Blockchain-000000?style=for-the-badge&logo=blockchain&logoColor=darkorange" alt="Blockchain">
 <img src="https://img.shields.io/badge/Cyber Security-darkred?style=for-the-badge&logo=cyber&logoColor=black" alt="Cyber Security">
 <img src="https://img.shields.io/badge/Arduino-white?style=for-the-badge&logo=arduino&logoColor=3776AB" alt="Arduino">
