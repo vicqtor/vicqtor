@@ -4,30 +4,27 @@ Hi <img src="https://user-images.githubusercontent.com/61727167/114547962-cecc6b
 I'm Victor, an expert backend developer.
 </h5>
 <hr>
-<h4 align="left">About: Skills, Languanges, Tools & Frameworks</h4>
+<h4 align="left">Languanges, tools & frameworks, skills</h4>
 <div align="left">
 <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python" alt="Python">
-<img src="https://img.shields.io/badge/A.I & M.L-00000F?style=for-the-badge&logo=robot" alt="A.I & M.L.">
-<img src="https://img.shields.io/badge/Django-darkgreen?style=for-the-badge&logo=django" alt="Django">
-<img src="https://img.shields.io/badge/RestApis-black?style=for-the-badge&logo=api" alt="RestAPIs">
-<img src="https://img.shields.io/badge/Blockchain-000000?style=for-the-badge&logo=blockchain&logoColor=darkorange" alt="Blockchain">
-<img src="https://img.shields.io/badge/Cyber Security-darkred?style=for-the-badge&logo=cyber&logoColor=black" alt="Cyber Security">
 <br>
-<img src="https://img.shields.io/badge/Java se|ee|me|fx-white?style=for-the-badge&logo=java&logoColor=darkred" alt="Java se|ee|me|fx">
 <img src="https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=cplusplus&logoColor=3776AB" alt="C++">
 <img src="https://img.shields.io/badge/JS-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript">
 <img src="https://img.shields.io/badge/Node-00000F?style=for-the-badge&logo=nodedotjs" alt="Node.Js">
 <img src="https://img.shields.io/badge/Vue-000000?style=for-the-badge&logo=vuedotjs" alt="Vue.JS">
 <img src="https://img.shields.io/badge/Nuxt3-000000?style=for-the-badge&logo=nuxtdotjs" alt="Vue.JS">
 <img src="https://img.shields.io/badge/Tailwind-000000?style=for-the-badge&logo=tailwindcss" alt="TailwindCSS">
+<img src="https://img.shields.io/badge/Java se|ee|me|fx-white?style=for-the-badge&logo=java&logoColor=darkred" alt="Java se|ee|me|fx">
 <br>
-<img src="https://img.shields.io/badge/Mongo-00000F?style=for-the-badge&logo=mongodb" alt="MongoDb">
-<img src="https://img.shields.io/badge/aws-000000?style=for-the-badge&logo=amazon" alt="aws">
-<img src="https://img.shields.io/badge/Oracle-000000?style=for-the-badge&logo=oracle&logoColor=darkred" alt="Oracle">
+<img src="https://img.shields.io/badge/A.I & M.L-00000F?style=for-the-badge&logo=robot" alt="A.I & M.L.">
+<img src="https://img.shields.io/badge/Django-darkgreen?style=for-the-badge&logo=django" alt="Django">
+<img src="https://img.shields.io/badge/RestApis-black?style=for-the-badge&logo=api" alt="RestAPIs">
+<img src="https://img.shields.io/badge/Blockchain-000000?style=for-the-badge&logo=blockchain&logoColor=darkorange" alt="Blockchain">
+<img src="https://img.shields.io/badge/Cyber Security-darkred?style=for-the-badge&logo=cyber&logoColor=black" alt="Cyber Security">
 <img src="https://img.shields.io/badge/Arduino-white?style=for-the-badge&logo=arduino&logoColor=3776AB" alt="Arduino">
 <img src="https://img.shields.io/badge/Raspberry-white?style=for-the-badge&logo=raspberrypi&logoColor=darkred" alt="RaspberryPI">
 <br>
-<img src="https://img.shields.io/badge/Cloud: B/I/S/P as a Service-ffca28?style=for-the-badge&logo=digitalocean&logoColor=black" alt="Cloud: (B/I/S/P as a Service)">
+<img src="https://img.shields.io/badge/Cloud-ffca28?style=for-the-badge&logo=digitalocean&logoColor=black" alt="Cloud">
 <img src="https://img.shields.io/badge/Networking-white?style=for-the-badge&logo=cisco&logoColor=000000" alt="Networks Eng.">
 <br>
 <hr>
@@ -35,8 +32,12 @@ I'm Victor, an expert backend developer.
 <a href="https://github.com/vicqtor/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vicqtor&layout=compact&theme=buefy&hide_border=true"/>
 <hr>
 <details>
-<summary> >>> </summary>
+<summary> >> more..</summary>
 <br>
+<img src="https://img.shields.io/badge/Mongo-00000F?style=for-the-badge&logo=mongodb" alt="MongoDb">
+<img src="https://img.shields.io/badge/aws-000000?style=for-the-badge&logo=amazon" alt="aws">
+<img src="https://img.shields.io/badge/Oracle-000000?style=for-the-badge&logo=oracle&logoColor=darkred" alt="Oracle">
+
 <img src="https://img.shields.io/badge/OpenCV-339933?style=for-the-badge&logo=opencv" alt="OpenCV">
 <img src="https://img.shields.io/badge/Tensorflow-00000F?style=for-the-badge&logo=tensorflow" alt="Tensorflow">
 <img src="https://img.shields.io/badge/Pytorch-000000?style=for-the-badge&logo=pytorch&logoColor=darkorange" alt="Pytorch">
