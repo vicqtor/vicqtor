@@ -3,8 +3,11 @@
 <br>
 </h5>
 I'm a backend developer, a serial coder.
-Constantly mastering current & emerging skills, tools, frameworks and resources in everything technology
+<br>
+Constantly mastering current & emerging skills, tools, frameworks and resources in everything technology.
+<br>
 Python | Js | Java(se|ee|me|fx) | Django | C++ | Vue, Node.Js | REST APIs | AI | IoT | Blockchain | Linux
+<br>
 CyberSecurity, SOC, DevOps, DevSecOps
 <hr>
 <h4 align="left">languanges, tools & frameworks.</h4>
