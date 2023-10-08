@@ -2,7 +2,10 @@
 <img src="https://user-images.githubusercontent.com/61727167/114547962-cecc6b80-9c67-11eb-9697-b1c5a8c8ff46.gif" alt="hello" width="30px">
 <br>
 </h5>
-An expert backend developer.
+I'm a backend developer, a serial coder.
+Constantly mastering current & emerging skills, tools, frameworks and resources in everything technology
+Python | Js | Java(se|ee|me|fx) | Django | C++ | Vue, Node.Js | REST APIs | AI | IoT | Blockchain | Linux
+CyberSecurity, SOC, DevOps, DevSecOps
 <hr>
 <h4 align="left">languanges, tools & frameworks.</h4>
 <div align="left">
